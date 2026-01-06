@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+@plugin 'daisyui';
+
+@layer base{
+    body{
+        background-image: url('/background.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
