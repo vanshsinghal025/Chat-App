@@ -23,6 +23,7 @@ Supports **text, images, typing alerts, notifications, and online/offline status
 
 ## 🗂️ **Project Structure**
 
+```sh
 chat-app/
 ├─ README.md # Project overview
 ├─ backend/ # Node.js + Express backend
@@ -38,6 +39,7 @@ chat-app/
 ├─ eslint.config.js
 ├─ public/
 └─ src/
+```
 
 ---
 
